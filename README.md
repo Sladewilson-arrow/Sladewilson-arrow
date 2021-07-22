@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sladewilson, eletromagnetics hobbyist.
 - 
-- 🌱 I’m currently learning quadcopter controlling
+- 🌱 I’m currently working on quadcopters
 
 - 📫 How to reach me slade.s02e01@gmail.com, GMT+2
 
